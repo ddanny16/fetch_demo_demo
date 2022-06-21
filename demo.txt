@@ -31,3 +31,37 @@
                     </section>
                 </main>
             </section>
+
+
+
+
+
+
+
+
+
+                faq.questionsContainer.map(questionsAnswer => {
+        QuestionsAnswers += `<div class="questionsAnswers" key=${count}>
+    <div class="question">
+    <p>
+    ${count}. ${questionsAnswer.question}
+    </p>
+    <button>
+    <img src="img/Plus.png" alt="" class="plus" />
+    </button>
+    </div>
+    <div class="answer">
+    <p>
+    ${questionsAnswer.answer}
+    </p>
+    <button>
+    <img src="img/Minus.png" alt="" class="minus" />
+            </button>
+            </div>
+    </div>    
+    `
+        count++
+
+
+
+        git add . && git commit -m "first commit" && git branch -M main && git remote add origin https://github.com/ddanny16/fetch_demo_demo.git && git push -u origin main
