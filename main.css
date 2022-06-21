@@ -1,0 +1,33 @@
+img{
+    border-radius: 50%;
+    width: 70px;
+}
+#lane{
+    background-color: rgb(253, 253, 253);
+    margin: 0 auto;
+    width: 90%;
+}
+#lane1{
+    margin: 0 auto;
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.kO{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+}
+#demo1{
+    background-color: rgba(0.256, 0.256, 0.256 ,0.256);
+    border-radius: 10px;
+    padding: 30px;
+    font-weight: 300;
+}

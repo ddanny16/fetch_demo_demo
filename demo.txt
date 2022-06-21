@@ -1,0 +1,33 @@
+ <section id="lane1">
+                <div id="demo"></div>
+                <div id="demo1">
+                    <span class="spann">✋</span>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos eligendi ullam temporibus dolorem 
+       a incidunt, explicabo veniam tenetur quam suscipit aliquam perspiciatis, at repudianda
+       e maxime. Adipisci, dolor alias suscipit deserunt ad molestiae ratione 
+       possimus consequatur eveniet cum fugiat vitae quam perspiciatis
+        accusamus aperiam magni sequi iste non quod quibusdam quisquam. Voluptate esse libero iste consequatur rati
+        one debitis, sint quisquam obcaecati. Veniam autem quo veritatis repudiandae eaque vero eligendi neque. Sunt?
+                    <span> 😊</span>
+                </div>
+                <main>
+                    <section>
+                        <div class="kO">
+                            <span>❤️</span>
+                            25 likes
+                        </div>
+                    </section>
+                    <section>
+                        <div  class="kO">
+                            <span>⌨️</span>
+                            10 comments
+                        </div>
+                    </section>
+                    <section>
+                        <div  class="kO">
+                            <span>➡️</span>
+                            1 share
+                        </div>
+                    </section>
+                </main>
+            </section>
